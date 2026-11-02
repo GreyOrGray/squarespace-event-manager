@@ -135,7 +135,7 @@ export function exportSeasons(store) {
  */
 export function importSeasons(store, data) {
   if (data?.format !== EXPORT_FORMAT || !data.seasons || typeof data.seasons !== "object") {
-    throw new Error("That file isn't a season backup from the event importer.");
+    throw new Error("That file isn't a season backup from the event manager.");
   }
   let out = store;
   const added = [];

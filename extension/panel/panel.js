@@ -268,7 +268,7 @@ function buildPanel() {
     const blob = new Blob([JSON.stringify(exportSeasons(state.store), null, 2)], { type: "application/json" });
     const a = document.createElement("a");
     a.href = URL.createObjectURL(blob);
-    a.download = `event-importer-seasons-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `event-manager-seasons-${new Date().toISOString().slice(0, 10)}.json`;
     root.append(a);
     a.click();
     a.remove();
@@ -284,7 +284,7 @@ function buildPanel() {
       changeStore(store);
       alert(`Added: ${added.join(", ")}. Pick one from the Season list.`);
     } catch (err) {
-      alert(err instanceof SyntaxError ? "That file isn't a season backup from the event importer." : err.message);
+      alert(err instanceof SyntaxError ? "That file isn't a season backup from the event manager." : err.message);
     }
   });
 

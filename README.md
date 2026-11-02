@@ -1,4 +1,4 @@
-# Squarespace Event Importer
+# Squarespace Event Manager
 
 A Chrome extension that turns a spreadsheet of classes into **draft** events on a Squarespace 7.1 site. Squarespace has no official way to create events in bulk, so the extension sends the same requests the Squarespace editor sends, using the login already open in the browser.
 

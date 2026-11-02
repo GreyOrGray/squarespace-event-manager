@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Squarespace Event Importer",
+  "name": "Squarespace Event Manager",
   "version": "0.7.0",
-  "description": "Create draft Squarespace events from a spreadsheet.",
+  "description": "Create, update and publish Squarespace events from a spreadsheet.",
   "action": {
-    "default_title": "Import events from a spreadsheet"
+    "default_title": "Manage events from a spreadsheet"
   },
   "background": {
     "service_worker": "background.js",
