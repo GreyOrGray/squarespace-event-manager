@@ -1,0 +1,29 @@
+{
+  "manifest_version": 3,
+  "name": "Squarespace Event Importer",
+  "version": "0.7.0",
+  "description": "Create draft Squarespace events from a spreadsheet.",
+  "action": {
+    "default_title": "Import events from a spreadsheet"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "panel/*",
+        "lib/*"
+      ],
+      "matches": [
+        "https://*/*"
+      ]
+    }
+  ]
+}

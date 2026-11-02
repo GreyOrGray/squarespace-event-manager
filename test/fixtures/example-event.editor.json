@@ -1,0 +1,148 @@
+{
+  "recordType": 12,
+  "id": "0000000000000000000000e1",
+  "collectionId": "0000000000000000000000c1",
+  "assetUrl": "https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png",
+  "fullUrl": "/events/summer-camp-2026-watercolor",
+  "coverImageUrl": "https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png",
+  "title": "Summer Camp: Watercolor **FULL**",
+  "body": {
+    "raw": false,
+    "layout": {
+      "columns": 12,
+      "rows": [
+        {
+          "columns": [
+            {
+              "blocks": [
+                {
+                  "id": "5023292bb13988ac696b",
+                  "type": 5,
+                  "value": {
+                    "imageId": "0000000000000000000000d1",
+                    "linkTo": "",
+                    "newwindow": false,
+                    "imageLink": "none",
+                    "buttonText": "",
+                    "lightbox": false,
+                    "lightboxTheme": "dark",
+                    "combinationAnimation": "site-default",
+                    "individualImageAnimation": "site-default",
+                    "individualTextAnimation": "site-default",
+                    "aspectRatio": null,
+                    "layout": "caption-below",
+                    "stretch": false,
+                    "description": {
+                      "source": "",
+                      "engine": "wysiwyg",
+                      "html": "<h3 style=\"text-align:center;white-space:pre-wrap;\"><strong>*** Camp is Full ***</strong></h3><h4 style=\"text-align:center;white-space:pre-wrap;\"><strong>Please email about waitlist options</strong></h4><p class=\"\" style=\"white-space:pre-wrap;\">In this watercolor camp, students learn washes, layering and color mixing, and paint landscapes and still lifes.</p><p class=\"\" style=\"white-space:pre-wrap;\">Each day starts with a short demonstration, followed by time to work on their own paintings.</p><p class=\"\" style=\"white-space:pre-wrap;\"><strong>Camp Info</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">Ages 8-12</p></li></ul><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">July 27 - July 31 : 11:30am - 4:30pm</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Tuition: $280</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\"><strong>Discounts (one per family):</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">Early bird (register by 4/20/2025): 10% off tuition</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Siblings: 10% off tuition</p></li></ul><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Students should bring a snack, water and a sketchbook. Aprons are provided, but please wear clothes that can get paint on them.</p><p class=\"\" style=\"white-space:pre-wrap;\">Our camps are a relaxed, welcoming place to make friends and learn about art.</p>"
+                    },
+                    "title": {
+                      "source": "",
+                      "engine": "wysiwyg",
+                      "html": "<p class=\"\" style=\"white-space:pre-wrap;\">Make it stand out</p>"
+                    },
+                    "subtitle": {
+                      "source": "",
+                      "engine": "wysiwyg",
+                      "html": "<p class=\"\" style=\"white-space:pre-wrap;\">Whatever it is, the way you tell your story online can make all the difference.</p>"
+                    },
+                    "designLayout": "inline",
+                    "imagePosition": "left",
+                    "mapping": null,
+                    "imageCropType": "css_styles",
+                    "imageMask": "circle",
+                    "borderRadii": {
+                      "topLeft": {
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "topRight": {
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "bottomLeft": {
+                        "unit": "px",
+                        "value": 0
+                      },
+                      "bottomRight": {
+                        "unit": "px",
+                        "value": 0
+                      }
+                    },
+                    "imageOverlay": {
+                      "enabled": false,
+                      "color": {
+                        "type": "THEME_COLOR"
+                      },
+                      "blendMode": "normal"
+                    },
+                    "imageEffect": {
+                      "type": "none"
+                    }
+                  },
+                  "containerStyles": {
+                    "backgroundEnabled": false,
+                    "stretchedToFill": false
+                  }
+                }
+              ],
+              "span": 12
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "excerpt": {
+    "html": "<h3 style=\"text-align: center; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>*** Camp is Full ***</strong></h3><h4 style=\"text-align: center; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Please email about waitlist options</strong></h4><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">In this watercolor camp, students learn washes, layering and color mixing, and paint landscapes and still lifes.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Each day starts with a short demonstration, followed by time to work on their own paintings.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Camp Info</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ages 8-12</p></li></ul><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">July 27 - July 31 : 11:30am - 4:30pm</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Tuition: $280</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Discounts (one per family):</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Early bird (register by 4/20/2025): 10% off tuition</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Siblings: 10% off tuition</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Students should bring a snack, water and a sketchbook. Aprons are provided, but please wear clothes that can get paint on them.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Our camps are a relaxed, welcoming place to make friends and learn about art.</p>",
+    "raw": false
+  },
+  "addedOn": 1770000000000,
+  "updatedOn": 1776000000000,
+  "publishOn": 1770000000000,
+  "starred": false,
+  "passthrough": false,
+  "workflowState": 1,
+  "location": {
+    "mapZoom": 15.0,
+    "mapLat": 40.5,
+    "mapLng": -100.0,
+    "addressTitle": "Example Art Studio",
+    "addressLine1": "100 Example Street",
+    "addressLine2": "Springfield, ST, 00000",
+    "addressCountry": "United States"
+  },
+  "urlId": "summer-camp-2026-watercolor",
+  "customContent": null,
+  "authorId": "0000000000000000000000b1",
+  "unsaved": false,
+  "tags": [],
+  "categories": [],
+  "startDate": 1785166200414,
+  "endDate": 1785529800414,
+  "structuredContent": {
+    "startDate": 1785166200414,
+    "endDate": 1785529800414
+  },
+  "originalSize": "750x477",
+  "hasFileData": true,
+  "mediaProcessingState": 3,
+  "contentType": "image/png",
+  "pushedServices": {},
+  "pendingPushedServices": {},
+  "shareStates": [
+    {
+      "message": "%t %u",
+      "connectedAccountId": "0000000000000000000000b3",
+      "pushEnabled": false
+    }
+  ],
+  "commentState": 2,
+  "commentCount": 0,
+  "mediaFocalPoint": {
+    "x": 0.5,
+    "y": 0.5,
+    "source": 3
+  }
+}

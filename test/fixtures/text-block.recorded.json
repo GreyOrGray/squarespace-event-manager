@@ -1,0 +1,130 @@
+{
+  "type": 1337,
+  "id": "2ca8b891a6d9b8c6fc67",
+  "value": {
+    "animations": [],
+    "breakpointOverrides": {},
+    "containerStyles": {
+      "backgroundColor": {
+        "type": "THEME_COLOR"
+      },
+      "backgroundEnabled": false,
+      "blendMode": "normal",
+      "blur": {
+        "blurRadius": {
+          "unit": "px",
+          "value": 15
+        },
+        "enabled": false,
+        "filterType": "backdrop"
+      },
+      "borderRadii": {
+        "bottomLeft": {
+          "unit": "px",
+          "value": 0
+        },
+        "bottomRight": {
+          "unit": "px",
+          "value": 0
+        },
+        "topLeft": {
+          "unit": "px",
+          "value": 0
+        },
+        "topRight": {
+          "unit": "px",
+          "value": 0
+        }
+      },
+      "padding": {
+        "bottom": {
+          "unit": "%",
+          "value": 6
+        },
+        "left": {
+          "unit": "%",
+          "value": 6
+        },
+        "right": {
+          "unit": "%",
+          "value": 6
+        },
+        "top": {
+          "unit": "%",
+          "value": 6
+        }
+      },
+      "stroke": {
+        "color": {
+          "sitePaletteColor": {
+            "alphaModifier": 1,
+            "colorName": "black"
+          },
+          "type": "SITE_PALETTE_COLOR"
+        },
+        "style": "none",
+        "thickness": {
+          "unit": "px",
+          "value": 2
+        }
+      }
+    },
+    "engine": "wysiwyg",
+    "html": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">test</p><h2 style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">test</h2><p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">test</p>",
+    "source": "<p style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">test</p><h2 style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">test</h2><p style=\"white-space:pre-wrap;\" class=\"sqsrte-large\" data-rte-preserve-empty=\"true\">test</p>",
+    "textAttributes": [],
+    "transforms": {
+      "offset": {
+        "x": {
+          "unit": "px",
+          "value": 0
+        },
+        "y": {
+          "unit": "px",
+          "value": 0
+        }
+      },
+      "opacity": {
+        "unit": "%",
+        "value": 100
+      },
+      "origin": {
+        "x": {
+          "unit": "%",
+          "value": 50
+        },
+        "y": {
+          "unit": "%",
+          "value": 50
+        }
+      },
+      "rotation": {
+        "z": {
+          "unit": "deg",
+          "value": 0
+        }
+      },
+      "scale": {
+        "x": {
+          "unit": "%",
+          "value": 100
+        },
+        "y": {
+          "unit": "%",
+          "value": 100
+        }
+      },
+      "skew": {
+        "x": {
+          "unit": "deg",
+          "value": 0
+        },
+        "y": {
+          "unit": "deg",
+          "value": 0
+        }
+      }
+    }
+  },
+  "definitionName": "website.components.html"
+}

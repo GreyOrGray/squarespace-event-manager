@@ -1,0 +1,5 @@
+Title,Start date,End date,Start time,End time,Ages,Tuition,Full,Notice,Notice detail,Description,Image,Tags,Categories
+TEST - Importer Camp One (delete me),2027-06-07,2027-06-11,9:00 AM,12:00 PM,6-9,300,yes,,,"Test event created by the importer. Safe to delete.
+
+Second paragraph to check paragraph breaks.",test-flyer.png,,
+TEST - Importer Workshop Two (delete me),2027-06-14,,11:00 AM,3:00 PM,8+,75,,Registration opens May 1,,One-day test event with a notice heading. Safe to delete.,,,

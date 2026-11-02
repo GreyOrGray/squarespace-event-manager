@@ -1,0 +1,66 @@
+{
+  "item": {
+    "id": "0000000000000000000000e1",
+    "collectionId": "0000000000000000000000c1",
+    "recordType": 12,
+    "addedOn": 1770000000000,
+    "updatedOn": 1776000000000,
+    "starred": false,
+    "passthrough": false,
+    "tags": [],
+    "categories": [],
+    "workflowState": 1,
+    "publishOn": 1770000000000,
+    "authorId": "0000000000000000000000b1",
+    "systemDataId": "1700000000000-EXAMPLEASSET0000000",
+    "systemDataVariants": "750x477,750w",
+    "systemDataSourceType": "PNG",
+    "filename": "Watercolor.png",
+    "mediaFocalPoint": {
+      "x": 0.5,
+      "y": 0.5,
+      "source": 3
+    },
+    "colorData": {
+      "topLeftAverage": "ccfdd8",
+      "topRightAverage": "95bafe",
+      "bottomLeftAverage": "ccfdd8",
+      "bottomRightAverage": "af9471",
+      "centerAverage": "94b0a3",
+      "suggestedBgColor": "9fb9b9"
+    },
+    "urlId": "summer-camp-2026-watercolor",
+    "title": "Summer Camp: Watercolor **FULL**",
+    "body": "<div class=\"sqs-layout sqs-grid-12 columns-12\" data-layout-label=\"Post Body\" data-type=\"item\" id=\"item-0000000000000000000000e1\"><div class=\"row sqs-row\"><div class=\"col sqs-col-12 span-12\"><div class=\"sqs-block website-component-block sqs-block-website-component sqs-block-image image-block\" data-block-css=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageLayout/68482e56-eaae-4b2c-a888-9ff11d332d31_269/website.components.imageLayout.styles.css&quot;]\" data-block-scripts=\"[&quot;https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageLayout/68482e56-eaae-4b2c-a888-9ff11d332d31_269/website.components.imageLayout.visitor.js&quot;]\" data-block-type=\"1337\" data-definition-name=\"website.components.imageLayout\" data-sqsp-block=\"image-classic\" data-website-component-id=\"5023292bb13988ac696b\" id=\"block-5023292bb13988ac696b\"><div class=\"sqs-block-content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n    \n  <div\n    class=\"\n      image-block-outer-wrapper\n      layout-caption-below\n      design-layout-inline\n      combination-animation-site-default\n      individual-animation-site-default\n      individual-text-animation-site-default\n    \"\n    data-test=\"image-block-inline-outer-wrapper\"\n    data-sqsp-image-classic-block-layout=\"inline\"\n    style=\"--image-component-focal-point: 50% 50%;--image-component-object-fit: cover;\"\n  >\n\n    \n\n    \n\n    \n      <figure\n        class=\"sqs-block-image-figure intrinsic\"\n        style=\"max-width:750px;\"\n      >\n        \n      \n        \n          \n      <div\n        \n        \n        class=\"image-block-wrapper\"\n        data-animation-role=\"image\"\n        \n  \n\n      >\n        <div\n          data-sqsp-image-classic-block-image-container\n          class=\"sqs-image-shape-container-element js-image-container\n            \n            \n          \"\n          \n          style=\"\n            position: relative;\n            padding-bottom:63.599998474121094%;\n            overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);\n          \"\n        >\n          \n          \n          \n          \n          \n          \n          <img data-stretch=\"false\"\n  data-src=\"https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png\"\n  data-image=\"https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png\"\n  data-image-dimensions=\"750x477\"\n  data-image-focal-point=\"0.5,0.5\"\n  data-sqsp-image-classic-block-image\n  alt=\"\"\n  data-licensed-asset-preview=\"false\"\n  data-load=\"false\" elementtiming=\"system-image-block\" src=\"https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png\" width=\"750\" height=\"477\" alt=\"\" sizes=\"auto, (max-width: 640px) 100vw, (max-width: 767px) 100.00vw, 100.00vw\" style=\"display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);\" srcset=\"https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png?format=2500w 2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\" data-image-component=\"1.0.1\">\n        </div>\n      </div>\n    \n        \n      \n\n      \n        <figcaption\n          data-sqsp-image-classic-block-caption-container\n          \n          class=\"image-caption-wrapper\"\n        >\n          <div class=\"image-caption\"><h3 style=\"text-align:center;white-space:pre-wrap;\"><strong>*** Camp is Full ***</strong></h3><h4 style=\"text-align:center;white-space:pre-wrap;\"><strong>Please email about waitlist options</strong></h4><p class=\"\" style=\"white-space:pre-wrap;\">In this watercolor camp, students learn washes, layering and color mixing, and paint landscapes and still lifes.</p><p class=\"\" style=\"white-space:pre-wrap;\">Each day starts with a short demonstration, followed by time to work on their own paintings.</p><p class=\"\" style=\"white-space:pre-wrap;\"><strong>Camp Info</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">Ages 8-12</p></li></ul><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">July 27 - July 31 : 11:30am - 4:30pm</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Tuition: $280</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\"><strong>Discounts (one per family):</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\">Early bird (register by 4/20/2025): 10% off tuition</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\">Siblings: 10% off tuition</p></li></ul><p class=\"\" data-rte-preserve-empty=\"true\" style=\"white-space:pre-wrap;\"></p><p class=\"\" style=\"white-space:pre-wrap;\">Students should bring a snack, water and a sketchbook. Aprons are provided, but please wear clothes that can get paint on them.</p><p class=\"\" style=\"white-space:pre-wrap;\">Our camps are a relaxed, welcoming place to make friends and learn about art.</p></div>\n        </figcaption>\n      \n    \n      </figure>\n    \n\n    \n\n\n  </div>\n\n  \n\n</div></div></div></div></div>",
+    "excerpt": "<h3 style=\"text-align: center; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>*** Camp is Full ***</strong></h3><h4 style=\"text-align: center; ; white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Please email about waitlist options</strong></h4><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">In this watercolor camp, students learn washes, layering and color mixing, and paint landscapes and still lifes.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Each day starts with a short demonstration, followed by time to work on their own paintings.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Camp Info</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Ages 8-12</p></li></ul><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">July 27 - July 31 : 11:30am - 4:30pm</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Tuition: $280</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"><strong>Discounts (one per family):</strong></p><ul data-rte-list=\"default\"><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Early bird (register by 4/20/2025): 10% off tuition</p></li><li><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Siblings: 10% off tuition</p></li></ul><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\"></p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Students should bring a snack, water and a sketchbook. Aprons are provided, but please wear clothes that can get paint on them.</p><p class=\"\" style=\"white-space:pre-wrap;\" data-rte-preserve-empty=\"true\">Our camps are a relaxed, welcoming place to make friends and learn about art.</p>",
+    "location": {
+      "mapZoom": 15.0,
+      "mapLat": 40.5,
+      "mapLng": -100.0,
+      "addressTitle": "Example Art Studio",
+      "addressLine1": "100 Example Street",
+      "addressLine2": "Springfield, ST, 00000",
+      "addressCountry": "United States"
+    },
+    "customContent": null,
+    "likeCount": 0,
+    "commentCount": 0,
+    "publicCommentCount": 0,
+    "commentState": 2,
+    "unsaved": false,
+    "fullUrl": "/events/summer-camp-2026-watercolor",
+    "assetUrl": "https://images.squarespace-cdn.com/content/v1/0000000000000000000000a1/1700000000000-EXAMPLEASSET0000000/Watercolor.png",
+    "contentType": "image/png",
+    "structuredContent": {
+      "_type": "CalendarEvent",
+      "startDate": 1785166200414,
+      "endDate": 1785529800414
+    },
+    "startDate": 1785166200414,
+    "endDate": 1785529800414,
+    "pushedServices": {},
+    "pendingPushedServices": {},
+    "originalSize": "750x477",
+    "recordTypeLabel": "event"
+  }
+}

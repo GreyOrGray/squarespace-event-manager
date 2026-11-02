@@ -1,0 +1,49 @@
+{
+  "type": 1337,
+  "id": "yui_3_17_2_1_1793376357313_1734",
+  "value": {
+    "altText": "",
+    "aspectRatio": null,
+    "borderRadii": {
+      "bottomLeft": {
+        "unit": "px",
+        "value": 0
+      },
+      "bottomRight": {
+        "unit": "px",
+        "value": 0
+      },
+      "topLeft": {
+        "unit": "px",
+        "value": 0
+      },
+      "topRight": {
+        "unit": "px",
+        "value": 0
+      }
+    },
+    "buttonText": "Learn more",
+    "combinationAnimation": "site-default",
+    "description": null,
+    "designLayout": "inline",
+    "filename": "",
+    "imageCropType": "css_styles",
+    "imageId": "0000000000000000000000d2",
+    "imageLink": "none",
+    "imageMask": "circle",
+    "imagePosition": "left",
+    "individualImageAnimation": "site-default",
+    "individualTextAnimation": "site-default",
+    "layout": "caption-hidden",
+    "lightbox": false,
+    "lightboxTheme": "dark",
+    "linkTo": null,
+    "newwindow": false,
+    "stretch": false,
+    "subtitle": null,
+    "title": null,
+    "hSize": null,
+    "floatDir": null
+  },
+  "definitionName": "website.components.imageLayout"
+}

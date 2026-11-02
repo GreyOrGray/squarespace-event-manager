@@ -1,0 +1,11 @@
+# Network recordings contain a live Squarespace login session. Never commit them.
+*.har
+recordings/
+
+# Your own spreadsheets and flyers, so real event data never gets committed.
+samples/
+
+node_modules/
+.env
+.DS_Store
+Thumbs.db

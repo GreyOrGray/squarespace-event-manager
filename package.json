@@ -1,0 +1,11 @@
+{
+  "name": "squarespace-event-importer",
+  "version": "0.7.0",
+  "private": true,
+  "license": "MIT",
+  "description": "Chrome extension that turns a spreadsheet of classes into draft Squarespace events.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
